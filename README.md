@@ -1,2 +1,1 @@
-# prepCourseHenry
-este es un repostorio de prueba del modulo 2 de Henry
+Este es un proyecto de prueba de que es un repositorio y clonarlo a nuestro escritorio
